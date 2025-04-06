@@ -1,4 +1,3 @@
-# git_training1
 <<<<<<< HEAD
 "HI"
 "Nice to meet you"
