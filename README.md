@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-"HI"
+"HI, How are you"
 "Nice to meet you"
 =======
 "Hey, This is file"
